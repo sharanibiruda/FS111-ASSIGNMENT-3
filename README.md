@@ -39,7 +39,7 @@ Access Final Result:
 7. After threads complete execution, access the final result or state of the shared resource.
 In this example, main method prints the final value of the counter after threads finish.
 
-3. What is abstraction in java, how many ways can we implement abstraction, write proper java program and how to implement abstraction.
+3.What is abstraction in java, how many ways can we implement abstraction, write proper java program and how to implement abstraction.
    ANS:Abstraction in Java is a concept where we hide the complex implementation details of a class and only show the necessary features or behaviors to the outside world. It allows us to focus on what an object does rather than how it does it. In Java, there are two main ways to implement abstraction:
 
 Abstract Classes
